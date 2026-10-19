@@ -1,0 +1,25 @@
+﻿# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build output
+dist/
+build/
+.expo/
+coverage/
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local Git history backup
+mobile-git-backup/
